@@ -20,12 +20,13 @@
 
 
 
- <a>
+<!--  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kang-xiao-zhuang&show_icons=true&locale&theme=great-gatsby&show_icons=true=en" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kang-xiao-zhuang&show_icons=true&locale=en&layout=compact&theme=great-gatsby" />
-</a>
+</a> -->
+
 <!--
 <a href="https://github.com/Kang-xiao-zhuang/LeetCodeLearn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kang-xiao-zhuang&repo=LeetCodeLearn&theme=great-gatsby&show_icons=true" />
